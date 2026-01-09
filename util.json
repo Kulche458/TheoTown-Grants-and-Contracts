@@ -21,7 +21,7 @@
       },
       "contract id": "$contract_expandededucation_00",
       "title id": "$contract_expandededucation_00_title",
-      "text": "$contract_expandededucation_00_text",
+      "text id": "$contract_expandededucation_00_text",
       "advance": 10000,
       "completion": 100000,
       "cancellation": 20000,

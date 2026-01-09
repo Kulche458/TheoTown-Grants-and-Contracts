@@ -2,6 +2,6 @@
   "id": "$contracts_plugin_pluch_00",
   "version": 1,
   "title": "Grants & Contracts",
-  "text": "Contracts!",
+  "text": "This plugin introduces various structured monetary contracts and grants offered by the government, private agencies, and organizations.",
   "author": "pluch"
 }
