@@ -75,3 +75,21 @@ All goals listed in the `"goals"` object have to be fulfilled to complete the co
   "income": 3000 // At least this much monthly income is necessary. Since multiple income goals would be pointless, this one is not an array.
 }
 ```
+
+## Translations
+If you would like to help by translating strings, you can do so by copying the `strings.json` file, renaming it to `strings_xx.json` (where `xx` is the corresponding ISO 639-1 language code), and modifying it like so:
+```json
+[
+  {
+    "id": "$kulche_contract_strings_00_xx", // Make sure to change the ID!
+    "type": "translation",
+    "xx": { // The language code goes here as well!
+      // ...
+      // Translated strings go here...
+      // ...
+    }
+  }
+]
+```
+Make sure to create a pull request once you're done. Direct commits might be rolled back.
+Thank you if you choose to contribute!
