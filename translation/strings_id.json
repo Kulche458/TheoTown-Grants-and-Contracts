@@ -1,9 +1,9 @@
 
 [
   {
-    "id": "$kulche_contract_strings_00_in",
+    "id": "$kulche_contract_strings_00_id",
     "type": "translation",
-    "in": {
+    "id": {
       "$contracts_string_menu_title": "Kontrak & Hibah",
       "$contracts_string_accept": "Terima kontrak",
       "$contracts_string_find": "Cari di menu",
