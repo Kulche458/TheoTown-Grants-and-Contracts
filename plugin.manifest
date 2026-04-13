@@ -1,7 +1,9 @@
 {
   "id": "$contracts_plugin_pluch_00",
-  "version": 0.2,
+  "version": 1.0,
   "title": "Grants & Contracts",
   "text": "This plugin introduces various structured monetary contracts and grants offered by the government, private agencies, and organizations.",
-  "author": "pluch"
+  "author": "Kulche",
+  "thumbnail": "thumbnail.png",
+  "url": "https://github.com/Kulche458/TheoTown-Grants-and-Contracts/releases"
 }

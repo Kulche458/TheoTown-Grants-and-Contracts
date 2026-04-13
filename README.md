@@ -13,10 +13,16 @@ This plugin introduces various structured monetary contracts and grants offered 
 - Add contracts menu and controls hotkeys
 - Implement failsafe checks for incorrectly implemented contract drafts
 - Don't show the menu if all possible contracts have already been completed
-- Invert logic for negative income goals
 
 ## Changelog
 A list of major changes to the public version will be kept up to date here.
+
+## Release v1.0
+- Released the plugin to the public on official platforms
+- Added emergency bailout grants
+- Added flavor contract issuers
+- Added a cover image
+- Improved strings and translations
 
 ## Pre-release v0.2
 - Fixed contracts were available on the moon
@@ -116,6 +122,7 @@ Make sure to create a pull request once you're done.
 Thank you if you choose to contribute!
 
 ## Credits & legal
-Plugin created by Kulche. Special thanks to JustAnyone and Lobby. Sound effects derived from Freesound content.
-Translations by flxzor (Indonesian).
+Plugin created by Kulche. Special thanks to JustAnyone, PBbunnypower and Lobby. Sound effects derived from Freesound content.\n
+Translations by flxzor, impieee (Indonesian).\n
+Cover image derived from city built by DualHD.\n
 Do not reupload files from this repository anywhere else, or claim them as your own.
