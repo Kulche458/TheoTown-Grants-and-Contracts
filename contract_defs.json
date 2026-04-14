@@ -36,7 +36,7 @@
       "title id": "$contract_nuclearpower_00_title",
       "text id": "$contract_nuclearpower_00_text",
       "advance": 50000,
-      "completion": 1000000,
+      "completion": 200000,
       "cancellation": 75000,
       "issuer": "government",
       "requirements": {
@@ -725,8 +725,8 @@
       "goals": {
         "buildings": [
           {"id": "$ind46", "count": 8},
-          {"id": "$ind26", "count": 2},
-          {"id": "$ind24"}
+          {"id": "ind26", "count": 2},
+          {"id": "ind24"}
         ]
       }
     }
@@ -838,7 +838,7 @@
           {"id": "$prm_res06"},
           {"id": "$res174_02"},
           {"id": "$prm_res07_02"},
-          {"id": "$prm_res_14_02"}
+          {"id": "$prm_res14_02"}
         ]
       }
     }
