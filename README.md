@@ -34,12 +34,13 @@ A list of major changes to the public version will be kept up to date here.
 - Initial stable release with most planned features implemented.
 
 ## Defining custom contracts
-This section goes over the details necessary to define functioning contracts of your own.
+This section goes over the details necessary to define functioning contracts of your own. Contracts can only be defined by privileged plugin creators.
 
 ### Basic syntax
 Contracts are defined entirely through JSON. An example contract can be defined as follows:
 ```jsonc
 {
+  "require privileges": true, // Necessary. The contract won't be loaded otherwise.
   "id": "$contract_example_00",
   "type": "data",
   "index": true, // Make sure to index contract drafts!

@@ -11,7 +11,7 @@ local contract_definitions = {}
 function Definitions.load()
     Draft.getDrafts():forEach(function(draft)
         local meta = draft:getMeta()
-        if meta and meta.tags and meta.tags.contract then
+        if meta and meta.tags and meta.tags.contract and draft:isPrivileged() then
             local def = Definitions.normalize(meta)
             contract_definitions[def.id] = def
         end

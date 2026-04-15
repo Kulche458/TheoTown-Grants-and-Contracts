@@ -1,5 +1,6 @@
 [
   {
+    "require privileges": true,
     "id": "$contract_expandededucation_00",
     "type": "data",
     "index": true,
@@ -25,6 +26,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_nuclearpower_00",
     "type": "data",
     "index": true,
@@ -50,6 +52,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_seatofgovernance_00",
     "type": "data",
     "index": true,
@@ -76,6 +79,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_publictransport_00",
     "type": "data",
     "index": true,
@@ -101,6 +105,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_goinggreeninitiative_00",
     "type": "data",
     "index": true,
@@ -127,6 +132,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_agreenerneighbourhood_00",
     "type": "data",
     "index": true,
@@ -156,6 +162,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_breakingground_00",
     "type": "data",
     "index": true,
@@ -185,6 +192,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_brighterfuture_00",
     "type": "data",
     "index": true,
@@ -214,6 +222,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_essentialservicesgrant_00",
     "type": "data",
     "index": true,
@@ -241,6 +250,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_poweringup_00",
     "type": "data",
     "index": true,
@@ -266,6 +276,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_learningandleisure_00",
     "type": "data",
     "index": true,
@@ -293,6 +304,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_expressconnection_00",
     "type": "data",
     "index": true,
@@ -318,6 +330,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_matchday_00",
     "type": "data",
     "index": true,
@@ -343,6 +356,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_pocketchange_00",
     "type": "data",
     "index": true,
@@ -367,6 +381,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_solidreturns_00",
     "type": "data",
     "index": true,
@@ -392,6 +407,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_windfallgains_00",
     "type": "data",
     "index": true,
@@ -417,6 +433,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_airtransitgrant_00",
     "type": "data",
     "index": true,
@@ -449,6 +466,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_newneighbours_00",
     "type": "data",
     "index": true,
@@ -474,6 +492,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_urbanexpansion_00",
     "type": "data",
     "index": true,
@@ -499,6 +518,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_thegreatsprawl_00",
     "type": "data",
     "index": true,
@@ -524,6 +544,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_finishingtouches_00",
     "type": "data",
     "index": true,
@@ -551,6 +572,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_coastalretreat_00",
     "type": "data",
     "index": true,
@@ -577,6 +599,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_monumenttopower_00",
     "type": "data",
     "index": true,
@@ -602,6 +625,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_anteup_00",
     "type": "data",
     "index": true,
@@ -627,6 +651,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_supersustainable_00",
     "type": "data",
     "index": true,
@@ -653,6 +678,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_conglomeratecenter_00",
     "type": "data",
     "index": true,
@@ -680,6 +706,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_bigboxinvestment_00",
     "type": "data",
     "index": true,
@@ -705,6 +732,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_liquidassets_00",
     "type": "data",
     "index": true,
@@ -732,6 +760,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_retailroyalty_00",
     "type": "data",
     "index": true,
@@ -759,6 +788,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_affordableliving_00",
     "type": "data",
     "index": true,
@@ -787,6 +817,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_residentialpotential_00",
     "type": "data",
     "index": true,
@@ -816,6 +847,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_highriseprestige_00",
     "type": "data",
     "index": true,
@@ -844,6 +876,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_ironthrone_00",
     "type": "data",
     "index": true,
@@ -873,6 +906,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_emergencybailout_00",
     "type": "data",
     "index": true,
@@ -902,6 +936,7 @@
     }
   },
   {
+    "require privileges": true,
     "id": "$contract_toobigtofail_00",
     "type": "data",
     "index": true,
