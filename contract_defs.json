@@ -12,7 +12,7 @@
       "title id": "$contract_expandededucation_00_title",
       "text id": "$contract_expandededucation_00_text",
       "advance": 10000,
-      "completion": 100000,
+      "completion": 75000,
       "cancellation": 20000,
       "issuer": "government",
       "requirements": {
@@ -38,7 +38,7 @@
       "title id": "$contract_nuclearpower_00_title",
       "text id": "$contract_nuclearpower_00_text",
       "advance": 50000,
-      "completion": 200000,
+      "completion": 250000,
       "cancellation": 75000,
       "issuer": "government",
       "requirements": {
@@ -91,7 +91,7 @@
       "title id": "$contract_publictransport_00_title",
       "text id": "$contract_publictransport_00_text",
       "advance": 2000,
-      "completion": 10000,
+      "completion": 4000,
       "cancellation": 5000,
       "issuer": "locals",
       "requirements": {
@@ -117,7 +117,7 @@
       "title id": "$contract_goinggreeninitiative_00_title",
       "text id": "$contract_goinggreeninitiative_00_text",
       "advance": 5000,
-      "completion": 25000,
+      "completion": 15000,
       "cancellation": 10000,
       "issuer": "ngo",
       "requirements": {
@@ -174,7 +174,7 @@
       "title id": "$contract_breakingground_00_title",
       "text id": "$contract_breakingground_00_text",
       "advance": 500,
-      "completion": 7500,
+      "completion": 5000,
       "cancellation": 1000,
       "issuer": "government",
       "requirements": {
@@ -204,7 +204,7 @@
       "title id": "$contract_brighterfuture_00_title",
       "text id": "$contract_brighterfuture_00_text",
       "advance": 1000,
-      "completion": 7500,
+      "completion": 5000,
       "cancellation": 1500,
       "issuer": "locals",
       "requirements": {
@@ -233,7 +233,7 @@
       "contract id": "$contract_essentialservicesgrant_00",
       "title id": "$contract_essentialservicesgrant_00_title",
       "text id": "$contract_essentialservicesgrant_00_text",
-      "advance": 25000,
+      "advance": 10000,
       "completion": 5000,
       "cancellation": 3000,
       "issuer": "government",
@@ -287,7 +287,7 @@
       "contract id": "$contract_learningandleisure_00",
       "title id": "$contract_learningandleisure_00_title",
       "text id": "$contract_learningandleisure_00_text",
-      "advance": 20000,
+      "advance": 15000,
       "completion": 15000,
       "cancellation": 10000,
       "issuer": "government",
@@ -315,8 +315,8 @@
       "contract id": "$contract_expressconnection_00",
       "title id": "$contract_expressconnection_00_title",
       "text id": "$contract_expressconnection_00_text",
-      "advance": 12000,
-      "completion": 20000,
+      "advance": 20000,
+      "completion": 30000,
       "cancellation": 3000,
       "issuer": "government",
       "requirements": {
@@ -342,7 +342,7 @@
       "title id": "$contract_matchday_00_title",
       "text id": "$contract_matchday_00_text",
       "advance": 5000,
-      "completion": 15000,
+      "completion": 10000,
       "cancellation": 10000,
       "issuer": "government",
       "requirements": {
@@ -556,7 +556,7 @@
       "title id": "$contract_finishingtouches_00_title",
       "text id": "$contract_finishingtouches_00_text",
       "advance": 100,
-      "completion": 4000,
+      "completion": 1500,
       "cancellation": 1500,
       "issuer": "locals",
       "requirements": {
@@ -584,7 +584,7 @@
       "title id": "$contract_coastalretreat_00_title",
       "text id": "$contract_coastalretreat_00_text",
       "advance": 2000,
-      "completion": 5000,
+      "completion": 15000,
       "cancellation": 200,
       "issuer": "elite",
       "requirements": {
@@ -611,7 +611,7 @@
       "title id": "$contract_monumenttopower_00_title",
       "text id": "$contract_monumenttopower_00_text",
       "advance": 500,
-      "completion": 2000,
+      "completion": 2500,
       "cancellation": 100,
       "issuer": "elite",
       "requirements": {
@@ -743,8 +743,8 @@
       "contract id": "$contract_liquidassets_00",
       "title id": "$contract_liquidassets_00_title",
       "text id": "$contract_liquidassets_00_text",
-      "advance": 500,
-      "completion": 4000,
+      "advance": 1000,
+      "completion": 12500,
       "cancellation": 2000,
       "issuer": "corporate",
       "requirements": {
@@ -772,7 +772,7 @@
       "title id": "$contract_retailroyalty_00_title",
       "text id": "$contract_retailroyalty_00_text",
       "advance": 5000,
-      "completion": 15000,
+      "completion": 12000,
       "cancellation": 10000,
       "issuer": "elite",
       "requirements": {
@@ -829,7 +829,7 @@
       "title id": "$contract_residentialpotential_00_title",
       "text id": "$contract_residentialpotential_00_text",
       "advance": 4000,
-      "completion": 15000,
+      "completion": 10000,
       "cancellation": 8000,
       "issuer": "government",
       "requirements": {
@@ -859,7 +859,7 @@
       "title id": "$contract_highriseprestige_00_title",
       "text id": "$contract_highriseprestige_00_text",
       "advance": 7500,
-      "completion": 25000,
+      "completion": 20000,
       "cancellation": 12000,
       "issuer": "elite",
       "requirements": {
@@ -888,7 +888,7 @@
       "title id": "$contract_ironthrone_00_title",
       "text id": "$contract_ironthrone_00_text",
       "advance": 5000,
-      "completion": 18000,
+      "completion": 15000,
       "cancellation": 10000,
       "issuer": "corporate",
       "requirements": {
@@ -952,7 +952,7 @@
       "cancellation": 0,
       "issuer": "government",
       "requirements": {
-        "rank": 10,
+        "rank": 12,
         "contracts completed": ["$contract_emergencybailout_00"],
         "income": -10000,
         "money": -50000
