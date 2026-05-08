@@ -17,6 +17,10 @@ This plugin introduces various structured monetary contracts and grants offered 
 ## Changelog
 A list of major changes to the public version will be kept up to date here.
 
+## Release v1.1
+- Fixed security issues
+- Rebalanced contract rewards and advance payments
+
 ## Release v1.0
 - Released the plugin to the public on official platforms
 - Added emergency bailout grants
@@ -41,6 +45,7 @@ Contracts are defined entirely through JSON. An example contract can be defined 
 ```jsonc
 {
   "require privileges": true, // Necessary. The contract won't be loaded otherwise.
+  "once": true,
   "id": "$contract_example_00",
   "type": "data",
   "index": true, // Make sure to index contract drafts!

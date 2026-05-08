@@ -1,6 +1,7 @@
 
 [
   {
+    "once": true,
     "id": "$kulche_contract_strings_00_id",
     "type": "translation",
     "id": {

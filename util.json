@@ -1,29 +1,34 @@
 [
   {
+    "once": true,
     "id": "$contracts_script_00",
     "type": "script",
     "require privileges": true,
     "script": "lua/main.lua"
   },
   {
+    "once": true,
     "id": "$contracts_sound_sign_00",
     "type": "sound",
     "file": "sounds/contract_sign.mp3",
     "volume": 1.3
   },
   {
+    "once": true,
     "id": "$contracts_sound_complete_00",
     "type": "sound",
     "file": "sounds/contract_complete.mp3",
     "volume": 1
   },
   {
+    "once": true,
     "id": "$contracts_sound_cancel_00",
     "type": "sound",
     "file": "sounds/contract_cancel.mp3",
     "volume": 0.6
   },
   {
+    "once": true,
     "id": "$contracts_goal_display_background_00",
     "type": "animation",
     "frames": [
